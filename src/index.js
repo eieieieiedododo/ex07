@@ -10,7 +10,7 @@ root.render(
   <BrowserRouter>
     <App />
     </BrowserRouter>
-);
+); // 시험 예 브라우저 라우터 빈칸..
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
